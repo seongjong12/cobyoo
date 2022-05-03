@@ -16,6 +16,7 @@
 <br>
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
+<h3 align="center"> 🧸 SJ 🧸 </h3>
 <p align="center">
     <a href="https://DoIn-Sin.github.io/"><img src="https://img.shields.io/badge/Tech Blog-8a2be2?style=flat-square&logo=GitHub&logoColor=white&link=https://DoIn-Sin.github.io/"/></a>&nbsp
   <a href="https://maroon-chips-b96.notion.site/Data-Engineer-DoIn-Sin-495ea758e5e9426abbaf1d25298703cd"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
